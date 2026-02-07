@@ -1,0 +1,19 @@
+[ROW:010]
+Source: CRR Article 26(1)(a)
+Text:
+Ordinary shares issued by the institution qualify as Common Equity Tier 1 capital.
+
+[ROW:020]
+Source: CRR Article 26(1)(b)
+Text:
+Share premium related to Common Equity Tier 1 instruments qualifies as Common Equity Tier 1 capital.
+
+[ROW:030]
+Source: CRR Article 26(1)(c)
+Text:
+Retained earnings qualify as Common Equity Tier 1 capital.
+
+[ROW:060]
+Source: CRR Article 26(1)
+Text:
+Common Equity Tier 1 capital is the sum of eligible Common Equity Tier 1 items after regulatory adjustments.
